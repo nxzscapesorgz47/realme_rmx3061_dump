@@ -1,0 +1,5 @@
+/system/app/FacebookManager_TL-20701
+/system/app/FaceBook_TL-20701
+/system/app/Messenger_TL-20701
+/system/priv-app/FacebookServices_TL-20701
+/system/priv-app/FacebookInstaller_TL-20701

@@ -1,0 +1,3 @@
+/system/app/FacebookManagerVDF-20701
+/system/priv-app/FacebookInstallerVDF-20701
+/system/priv-app/FacebookServicesVDF-20701
