@@ -1,0 +1,4 @@
+<config>
+    <hidden-api-whitelisted-app package="sk.sitic.pp" />
+    <hidden-api-whitelisted-app package="co.sitic.pp" />
+</config>
